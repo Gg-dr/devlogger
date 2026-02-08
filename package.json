@@ -9,14 +9,25 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.24",
+    "bcryptjs": "^3.0.3",
+    "chart.js": "^4.5.1",
+    "date-fns": "^4.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.6",
     "next": "16.1.6",
+    "next-auth": "^4.24.13",
+    "postcss": "^8.5.6",
     "react": "19.2.3",
+    "react-chartjs-2": "^5.3.1",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.10",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
-    "tailwindcss": "^4"
+    "tailwindcss": "^4.1.18"
   }
 }
